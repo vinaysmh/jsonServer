@@ -1,7 +1,7 @@
 {
     "17-05-2021": [
         {
-            "exType": "",
+            "exType": "exchangeType1",
             "description": "Test 1",
             "tradeTime": "17-05-2021 ",
             "bID": 1,
@@ -20,7 +20,7 @@
             "token": 1
         },
         {
-            "exType": "",
+            "exType": "exchangeType2",
             "description": "Test 2",
             "tradeTime": "17-05-2021 ",
             "bID": 2,
@@ -39,7 +39,7 @@
             "token": 2
         },
         {
-            "exType": "",
+            "exType": "exchangeType3",
             "description": "Test 3",
             "tradeTime": "17-05-2021 ",
             "bID": 3,
@@ -58,7 +58,7 @@
             "token": 3
         },
         {
-            "exType": "",
+            "exType": "exchangeType4",
             "description": "Test 4",
             "tradeTime": "17-05-2021 ",
             "bID": 4,
