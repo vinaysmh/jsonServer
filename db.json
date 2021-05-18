@@ -1,7 +1,7 @@
 {
     "17-05-2021": [
         {
-            "exType": "exchangeType1",
+            "exType": "0",
             "description": "Test 1",
             "tradeTime": 1299769391,
             "bID": 1,
@@ -19,7 +19,7 @@
             "totalSell": 1,
             "token": 1
         } ,{
-            "exType": "exchangeType2",
+            "exType": "1",
             "description": "Test 2",
             "tradeTime": 1299769398,
             "bID": 2,
@@ -38,7 +38,7 @@
             "token": 2
         },
         {
-            "exType": "exchangeType3",
+            "exType": "1",
             "description": "Test 3",
             "tradeTime": 1299769402,
             "bID": 3,
@@ -57,7 +57,7 @@
             "token": 3
         },
         {
-            "exType": "exchangeType4",
+            "exType": "0",
             "description": "Test 4",
             "tradeTime": 1299769412,
             "bID": 4,
