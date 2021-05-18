@@ -3,7 +3,7 @@
         {
             "exType": "exchangeType1",
             "description": "Test 1",
-            "tradeTime": "17-05-2021 ",
+            "tradeTime": 1299769391,
             "bID": 1,
             "aSK": 1,
             "lTP": 1,
@@ -21,7 +21,7 @@
         } ,{
             "exType": "exchangeType2",
             "description": "Test 2",
-            "tradeTime": "17-05-2021 ",
+            "tradeTime": 1299769398,
             "bID": 2,
             "aSK": 2,
             "lTP": 2,
@@ -40,7 +40,7 @@
         {
             "exType": "exchangeType3",
             "description": "Test 3",
-            "tradeTime": "17-05-2021 ",
+            "tradeTime": 1299769402,
             "bID": 3,
             "aSK": 3,
             "lTP": 3,
@@ -59,7 +59,7 @@
         {
             "exType": "exchangeType4",
             "description": "Test 4",
-            "tradeTime": "17-05-2021 ",
+            "tradeTime": 1299769412,
             "bID": 4,
             "aSK": 4,
             "lTP": 4,
